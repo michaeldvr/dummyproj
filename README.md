@@ -10,3 +10,9 @@ This is a `message`.
 This is a `message`.
 
 Commit #3
+
+## Test Push Lagi
+
+```bash
+echo Hello World!
+```
